@@ -48,13 +48,18 @@
 ---
 ### 📊 SYSTEM DIAGNOSTICS (Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <br><br>
+<div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true&langs_count=6" alt="Top Languages" />
+| 🛠️ GLOBAL STATISTICS | 📚 LANGUAGE PROFICIENCY |
+| :---: | :---: |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true&count_private=true&include_all_commits=true" width="400px" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true&langs_count=6" width="350px" /> |
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer&text=LOADING%20BACKEND%20RESOURCES...&fontSize=20&fontAlignY=80" width="100%"/>
 </p>
+</div>
+
+---
 ---
 
 ### 📩 CONTACT PLAYER
