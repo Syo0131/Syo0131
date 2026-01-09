@@ -34,8 +34,7 @@
 | 🗡️ **Secondary Weapon** | C# / Angular / Astro / TailwindCss | ![70%](https://geps.dev/progress/70?dangerColor=800080&accColor=00FF00&nightMode=true) |
 | 🛡️ **Shield** | Hibernate / JPA | ![85%](https://geps.dev/progress/85?dangerColor=800080&accColor=00FF00&nightMode=true) |
 | 🧪 **Potion** | Docker / Kubernetes | ![75%](https://geps.dev/progress/70?dangerColor=800080&accColor=00FF00&nightMode=true) |
-| 📓 **Scroll** | PostgreSQL / MySQL | ![80%](https://geps.dev/progress/80?dangerColor=800080&accColor=00FF00&nightMode=true) |
-| ⚡ **Buff** | Kafka / Redis | ![40%](https://geps.dev/progress/40?dangerColor=800080&accColor=00FF00&nightMode=true) |
+| ⚡ **Buff** | PostgreSQL / MySQL | ![80%](https://geps.dev/progress/80?dangerColor=800080&accColor=00FF00&nightMode=true) |
 
 ---
 
