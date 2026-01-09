@@ -40,19 +40,20 @@
 
 ### 🏆 QUEST LOG (Featured Projects)
 
-* **[Main Quest: Spendly-Api]**: [Click here to start mission](https://github.com/Syo0131/Spendly-Api) Sistema de gestión financiera personal con procesamiento automático de emails bancarios.
-  #### 🚀 Stack Tecnológico
-      
-     **Backend:** `Java 21` • `Spring Boot 3.x` • `Spring Security` • `Spring Data JPA` • `PostgreSQL`
-      
-     **Autenticación:** `JWT` • `OAuth2` • `Gmail API`
-      
-     **Herramientas:** `MapStruct` • `Maven` • `Docker` • `SLF4J`
+* **[Main Quest: Spendly-Api]**: [Click here to start mission](https://github.com/Syo0131/Spendly-Api) 
+  * *Personal financial management system featuring automated bank email processing.*
+  #### 🚀 Tech Stack
+  **Backend:** `Java 21` • `Spring Boot 3.x` • `Spring Security` • `Spring Data JPA` • `PostgreSQL`
+  
+  **Authentication:** `JWT` • `OAuth2` • `Gmail API`
+  
+  **Tools:** `MapStruct` • `Maven` • `Docker` • `SLF4J`
 
 
-* **[Side Quest: The API Portal]** *Integración masiva de servicios externos con seguridad OAuth2.* `Spring Security` `JWT`
+* **[Side Quest: The API Portal]** * *Massive integration of external services with OAuth2 security.* * `Spring Security` `JWT`
 
 ---
+
 ### 📊 SYSTEM DIAGNOSTICS (Stats)
 
 <div align="center">
@@ -62,7 +63,7 @@
 | <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true&count_private=true&include_all_commits=true" width="400px" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true&langs_count=6" width="350px" /> |
 
 </div>
----
+
 ---
 
 ### 📫 LET'S CONNECT
