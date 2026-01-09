@@ -41,13 +41,13 @@
 ### 🏆 QUEST LOG (Featured Projects)
 
 * **[Main Quest: Spendly-Api]**: [Click here to start mission](https://github.com/Syo0131/Spendly-Api) Sistema de gestión financiera personal con procesamiento automático de emails bancarios.
-      #### 🚀 Stack Tecnológico
+  #### 🚀 Stack Tecnológico
       
-      **Backend:** `Java 21` • `Spring Boot 3.x` • `Spring Security` • `Spring Data JPA` • `PostgreSQL`
+     **Backend:** `Java 21` • `Spring Boot 3.x` • `Spring Security` • `Spring Data JPA` • `PostgreSQL`
       
-      **Autenticación:** `JWT` • `OAuth2` • `Gmail API`
+     **Autenticación:** `JWT` • `OAuth2` • `Gmail API`
       
-      **Herramientas:** `MapStruct` • `Maven` • `Docker` • `SLF4J`
+     **Herramientas:** `MapStruct` • `Maven` • `Docker` • `SLF4J`
 
 
 * **[Side Quest: The API Portal]** *Integración masiva de servicios externos con seguridad OAuth2.* `Spring Security` `JWT`
