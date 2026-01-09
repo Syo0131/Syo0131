@@ -45,13 +45,15 @@
 * **[Side Quest: The API Portal]** *Integración masiva de servicios externos con seguridad OAuth2.* `Spring Security` `JWT`
 
 ---
-
+---
 ### 📊 SYSTEM DIAGNOSTICS (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syo0131&theme=retro&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true" alt="Top Languages" />
 </p>
 ---
 
