@@ -30,12 +30,12 @@
 
 | Slot | Item | Level (Power) |
 | :--- | :--- | :--- |
-| ⚔️ **Main Weapon** | Java / Spring Boot | ![90%](https://geps.dev/progress/85?dangerColor=800080&accColor=00FF00&nightMode=true) |
-| 🗡️ **Secondary Weapon** | C# / Angular / Astro / TailwindCss | ![75%](https://geps.dev/progress/65?dangerColor=800080&accColor=00FF00&nightMode=true) |
+| ⚔️ **Main Weapon** | Java / Spring Boot | ![90%](https://geps.dev/progress/90?dangerColor=800080&accColor=00FF00&nightMode=true) |
+| 🗡️ **Secondary Weapon** | C# / Angular / Astro / TailwindCss | ![70%](https://geps.dev/progress/70?dangerColor=800080&accColor=00FF00&nightMode=true) |
 | 🛡️ **Shield** | Hibernate / JPA | ![85%](https://geps.dev/progress/85?dangerColor=800080&accColor=00FF00&nightMode=true) |
 | 🧪 **Potion** | Docker / Kubernetes | ![75%](https://geps.dev/progress/70?dangerColor=800080&accColor=00FF00&nightMode=true) |
 | 📓 **Scroll** | PostgreSQL / MySQL | ![80%](https://geps.dev/progress/80?dangerColor=800080&accColor=00FF00&nightMode=true) |
-| ⚡ **Buff** | Kafka / Redis | ![40%](https://geps.dev/progress/30?dangerColor=800080&accColor=00FF00&nightMode=true) |
+| ⚡ **Buff** | Kafka / Redis | ![40%](https://geps.dev/progress/40?dangerColor=800080&accColor=00FF00&nightMode=true) |
 
 ---
 
