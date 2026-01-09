@@ -49,11 +49,10 @@
 ### 📊 SYSTEM DIAGNOSTICS (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📩 CONTACT PLAYER
@@ -61,5 +60,5 @@
 ```yaml
 contact:
   email: "diazdaybelsamuel@gmail.com"
-  linkedin: "[linkedin.com/in/DaybelDiaz](https://linkedin.com/in/DaybelDiaz)"
+  linkedin: "linkedin.com/in/DaybelDiaz"
   discord: "Syo0131"
