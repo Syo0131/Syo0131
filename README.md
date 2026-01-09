@@ -40,8 +40,7 @@
 
 ### 🏆 QUEST LOG (Featured Projects)
 
-* **[Main Quest: Spendly]** Sistema de gestión financiera personal con procesamiento automático de emails bancarios. [![Spendly](https://img.shields.io/badge/SPENDLY_API-2ECC71?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Syo0131/Spendly-Api)
-
+* **[Main Quest: Spendly-Api]**: [Click here to start mission](https://github.com/Syo0131/Spendly-Api) Sistema de gestión financiera personal con procesamiento automático de emails bancarios.
 ## 🚀 Stack Tecnológico
 
 **Backend:** `Java 21` • `Spring Boot 3.x` • `Spring Security` • `Spring Data JPA` • `PostgreSQL`
