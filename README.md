@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-99-blue?style=press-start&color=FFD700" />
+  <img src="https://img.shields.io/badge/LEVEL-21-blue?style=press-start&color=FFD700" />
   <img src="https://img.shields.io/badge/CLASS-BACKEND_DEVELOPER-red?style=press-start" />
   <img src="https://img.shields.io/badge/HP-100%2F100-brightgreen?style=press-start" />
 </p>
@@ -49,11 +49,11 @@
 ### 📊 SYSTEM DIAGNOSTICS (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syo0131&theme=retro&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 ---
 
