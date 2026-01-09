@@ -49,9 +49,9 @@
 ### 📊 SYSTEM DIAGNOSTICS (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=retro&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syo0131&show_icons=true&theme=retro&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=retro&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syo0131&layout=compact&theme=retro&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
